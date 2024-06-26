@@ -21,6 +21,7 @@
 		3C61D2622BE942100096C8DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C61D2612BE942100096C8DA /* Assets.xcassets */; };
 		3C61D2652BE942100096C8DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C61D2642BE942100096C8DA /* Preview Assets.xcassets */; };
 		3C6472AA2C2CAA7500E54AD2 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6472A92C2CAA7500E54AD2 /* HexagonParameters.swift */; };
+		3C6472AC2C2CAC1B00E54AD2 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6472AB2C2CAC1B00E54AD2 /* BadgeBackground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		3C61D2612BE942100096C8DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C61D2642BE942100096C8DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3C6472A92C2CAA7500E54AD2 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		3C6472AB2C2CAC1B00E54AD2 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				3C61D25F2BE9420E0096C8DA /* ContentView.swift */,
 				3C6472A92C2CAA7500E54AD2 /* HexagonParameters.swift */,
+				3C6472AB2C2CAC1B00E54AD2 /* BadgeBackground.swift */,
 				3C4D81C52C2CA87900133497 /* Landmarks */,
 				3C4D81C62C2CA88800133497 /* Helper */,
 			);
@@ -215,6 +218,7 @@
 				3C6472AA2C2CAA7500E54AD2 /* HexagonParameters.swift in Sources */,
 				3C3F6AC52BF252B70082BDB7 /* LandmarkList.swift in Sources */,
 				3C3F6AC72BF253C50082BDB7 /* LandmarkDetail.swift in Sources */,
+				3C6472AC2C2CAC1B00E54AD2 /* BadgeBackground.swift in Sources */,
 				3C5E30222BEA96C6004BAB1C /* CircleImage.swift in Sources */,
 				3C3F6ABC2BF24C310082BDB7 /* Landmark.swift in Sources */,
 				3C3F6AC32BF2509D0082BDB7 /* LandmarkRow.swift in Sources */,
